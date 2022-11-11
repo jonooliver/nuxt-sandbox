@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-    <div class="grid grid-cols-2 gap-10">
+    <div class="grid lg:grid-cols-2 gap-10">
       <div class="p-7">
         <img :src="`${product.image}`" class="mx-auto my-7" />
       </div>
